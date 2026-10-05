@@ -1,0 +1,11 @@
+JAB Tech Services holding page (IT-REQ-MKT-007), 4 Oct 2026
+Image credits and licences
+
+images/phone-repair.jpg  "Phone repairs" photo by Vitalijus on Unsplash, https://unsplash.com/photos/a-person-in-blue-gloves-is-repairing-a-cell-phone-6E3oMj688Nk  Licence: Unsplash License (free for commercial use, no attribution required).
+images/windscreen-repair.jpg  "Windscreen repairs" photo by Lance Grandahl on Unsplash, https://unsplash.com/photos/a-broken-windshield-of-a-car-with-a-broken-windshield-oeA4k4u6AbI  Licence: Unsplash License (free for commercial use, no attribution required).
+images/vehicle-claim.jpg  "Vehicle claim assessment" photo by Mr Brown on Unsplash, https://unsplash.com/photos/a-green-car-with-a-dented-front-bumper-15gEIt-TsmY  Licence: Unsplash License (free for commercial use, no attribution required).
+images/home-damage.jpg  "Home damage" photo by Wes Warren on Unsplash, https://unsplash.com/photos/a-flooded-house-with-a-house-NvzUyc9VifQ  Licence: Unsplash License (free for commercial use, no attribution required).
+images/marine-damage.jpg  "Marine damage" photo by Julian Gojani on Unsplash, https://unsplash.com/photos/a-partially-submerged-white-sailboat-next-to-a-rocky-shore-itWPg97ah5c  Licence: Unsplash License (free for commercial use, no attribution required).
+images/break-in.jpg  "Break-in and theft" photo by Hale Tat on Unsplash, https://unsplash.com/photos/a-broken-glass-window-with-a-hole-in-it-QuXhPjObmoQ  Licence: Unsplash License (free for commercial use, no attribution required).
+
+All images resized to 800x560 and compressed by the Head of Marketing.
